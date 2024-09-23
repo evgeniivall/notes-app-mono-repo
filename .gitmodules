@@ -1,0 +1,6 @@
+[submodule "notes-app-ui"]
+	path = notes-app-ui
+	url = git@github.com:evgeniivall/notes-app-ui.git
+[submodule "notes-auth-micro"]
+	path = notes-auth-micro
+	url = git@github.com:evgeniivall/notes-auth-micro.git
